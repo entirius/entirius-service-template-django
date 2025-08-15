@@ -7,7 +7,7 @@ name = "entirius-service-template-django"
 version = "0.1.0"
 description = "Entirius Template Django Service - Template for creating new Django-based services"
 authors = [
-    {name = "Entirius Team", email = "team@entirius.com"},
+    {name = "Zolv", email = "174021039+zolvio@users.noreply.github.com"},
 ]
 readme = "README.md"
 requires-python = ">=3.11"
