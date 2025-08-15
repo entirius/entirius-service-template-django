@@ -16,7 +16,7 @@ A template Django service for the Entirius e-commerce AI platform, following the
 
 ## Architecture
 
-This service follows [ADR-001 Modular Monolith](../../docs-entirius/docs/adr/adr-001-modular-monolith.md) architecture and [ADR-002 Django REST Framework with Pydantic](../../docs-entirius/docs/adr/adr-002-openapi-django-rest-framework.md) for API development.
+This service follows [ADR-001 Modular Monolith](../../docs/entirius-docs/docs/adr/adr-001-modular-monolith.md) architecture and [ADR-002 Django REST Framework with Pydantic](../../docs/entirius-docs/docs/adr/adr-002-openapi-django-rest-framework.md) for API development.
 
 ## Quick Start
 
@@ -257,12 +257,12 @@ When making changes to this template:
 2. Update tests for any changes
 3. Run the full test suite
 4. Update documentation
-5. Follow [ADR guidelines](../../docs-entirius/docs/adr/)
+5. Follow [ADR guidelines](../../docs/entirius-docs/docs/adr/)
 
 ## Related Documentation
 
-- [Main Project Documentation](../../docs-entirius/)
-- [Architecture Decision Records](../../docs-entirius/docs/adr/)
+- [Main Project Documentation](../../docs/entirius-docs/)
+- [Architecture Decision Records](../../docs/entirius-docs/docs/adr/)
 - [Django Documentation](https://docs.djangoproject.com/)
 - [Django REST Framework](https://www.django-rest-framework.org/)
 - [Pydantic Documentation](https://docs.pydantic.dev/)

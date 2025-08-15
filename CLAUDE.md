@@ -310,8 +310,8 @@ cd services/your-new-service-name/
 
 ## Related Documentation
 
-- **Main Project Documentation**: `../../docs-entirius/`
-- **Architecture Decision Records**: `../../docs-entirius/docs/adr/`
+- **Main Project Documentation**: `../../docs/entirius-docs/`
+- **Architecture Decision Records**: `../../docs/entirius-docs/docs/adr/`
 - **Original AI Gateway Service**: `../entirius-service-ai-gateway/CLAUDE.md`
 - **API Documentation**: Available at `/api/schema/swagger-ui/` (development server)
 
